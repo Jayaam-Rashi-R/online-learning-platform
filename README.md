@@ -15,3 +15,4 @@ DESCRIPTION: EDITED IN VISUAL STUDIO CODE AND OUPUT EXECTUED IN CHROME
 
 OUTPUT
           
+![Image](https://github.com/user-attachments/assets/9af75b62-cd7d-42cb-9783-2e248b5825b0)
